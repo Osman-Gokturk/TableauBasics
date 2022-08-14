@@ -11,6 +11,7 @@ One has to choose the right chart type, as there are 44 types of the charts.
 
 the choşce of t he dashboard depends o nthe problem we are trying to provide a solution. 
 
-WE are going to use  a sales data to do the following task: each task  is explained in its 
+WE are going to use  foode sales data from the site: https://www.contextures.com/xlsampledata01.html. 244 rows of data in the food sales table for order date, region, city, category, productName, quantity ordered, selling unit price,  and total price  the QuantityxUnitPrice. 
 
-Revenue per state: 
+
+** Revenue per state:** 
